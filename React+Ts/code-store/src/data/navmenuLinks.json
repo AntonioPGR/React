@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Início",
+    "to": "/"
+  },
+  {
+    "label": "Produtos",
+    "to": "/products"
+  },
+  {
+    "label": "Login",
+    "to": "/login"
+  }
+]
